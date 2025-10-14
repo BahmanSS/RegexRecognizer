@@ -11,7 +11,7 @@
 
 ## Диарграмма перехов ДКА:
 
-[![2025-10-14-125214489.png](https://i.postimg.cc/13ZCtTZC/2025-10-14-125214489.png)](https://postimg.cc/BXMc7mbH)
+[![2025-10-14-232416767.png](https://i.postimg.cc/LsDWzkpF/2025-10-14-232416767.png)](https://postimg.cc/TyyQxD1t)
 ## Регулярное выражение (РВ):
 
 ```
